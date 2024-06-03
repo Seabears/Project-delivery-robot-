@@ -7,4 +7,5 @@ tx pb14 d1
 rx pb15 d0
 
 connect to hc-06
+
 baud rate = 9600
